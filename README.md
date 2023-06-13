@@ -36,16 +36,16 @@
 
 ### Пример работы библиотекаря
 
-![Скрин lib.jpg](lib.jpg)
+![Скрин lib.jpg](https://github.com/mkdemkov/IDZ4/blob/main/lib.JPG)
 
 
 ### Пример работы логгера
 
-![Скрин log.jpg](log.jpg)
+![Скрин log.jpg](https://github.com/mkdemkov/IDZ4/blob/main/log.JPG)
 
 ### Пример работы студента
 
-![Скрин stu.jpg](stu.jpg)
+![Скрин stu.jpg](https://github.com/mkdemkov/IDZ4/blob/main/stu.JPG)
 
 ## Логика работы
 Вся логика работы программы не меняется в решениях на разные оценки. Различия в реализации только в том, какие средства синхронизации используются.
